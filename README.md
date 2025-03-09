@@ -36,7 +36,6 @@ This project leverages a dataset of restaurants in Bengaluru, sourced from Zomat
     - Identify common meal types (e.g., Buffet, Delivery) in highly-rated restaurants.
 
 ## Dataset
-### The raw dataset & tableau project file can be found here : [Zomato-Bangalore](https://drive.google.com/drive/u/0/folders/1skewYas29Nmk13oZ4b2pf1Qr68s97xQf)
 
 The dataset used for this project includes information such as:
 - Restaurant names
