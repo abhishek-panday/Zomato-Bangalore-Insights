@@ -60,24 +60,6 @@ The dataset used for this project includes information such as:
 - Higher-rated restaurants tend to receive more customer reviews and are concentrated in upscale areas like Koramangala and Indiranagar.
 - Popular cuisines like North Indian and South Indian dominate the food scene, with international cuisines being prevalent in select areas.
 
-## Visualizations
-
-The Tableau dashboard includes the following visualizations:
-1. Bar charts showing online ordering and table booking availability by location.
-2. Heatmaps and pie charts for the distribution of restaurant ratings and popular meal types.
-3. Scatter plots for analyzing the correlation between customer reviews and ratings.
-4. Neighborhood-based maps highlighting restaurant concentration and performance.
-
-## How to Use
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/EthenDcosta5/bengaluru-restaurant-analysis.git
-   ```
-2. Open the Tableau workbook (`.twb` or `.twbx` file) to explore the visualizations.
-[Dataset](#Dataset)
-
-
 ## Future Improvements
 
 - Include more detailed customer sentiment analysis based on review content.
